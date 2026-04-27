@@ -18,7 +18,7 @@ Currently diving deeper into model fairness (AIF360) and scalable deployments vi
 
 ## 🔗 Featured Projects
 
-### • [Campus Health Survey Anlysis] (https://github.com/bhuvanak04/Campus-Health-Survey-Analysis)
+### • [Campus Health Survey Anlysis](https://github.com/bhuvanak04/Campus-Health-Survey-Analysis)
 Analyzed UC Riverside health survey data to identify top health concerns among campus respondents. Cleaned multi-response data, built visualizations for the most selected concerns, and conducted a gender-stratified analysis using chi-square tests to identify statistically significant differences across 29 health topics.
 
 ### • [world-happiness-prediction](https://github.com/bhuvanak04/world-happiness-prediction)
