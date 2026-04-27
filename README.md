@@ -1,5 +1,4 @@
 # Hello, I’m Bhuvana Kotha
-https://github.com/bhuvanak04/BTTAI-portfolio 
 
 ✉️ bhuvanask.bk@gmail.com
 
