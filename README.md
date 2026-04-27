@@ -19,6 +19,9 @@ Currently diving deeper into model fairness (AIF360) and scalable deployments vi
 
 ## 🔗 Featured Projects
 
+### • [Campus Health Survey Anlysis] (https://github.com/bhuvanak04/Campus-Health-Survey-Analysis)
+Analyzed UC Riverside health survey data to identify top health concerns among campus respondents. Cleaned multi-response data, built visualizations for the most selected concerns, and conducted a gender-stratified analysis using chi-square tests to identify statistically significant differences across 29 health topics.
+
 ### • [world-happiness-prediction](https://github.com/bhuvanak04/world-happiness-prediction)
 End‑to‑end ML pipeline predicting World Happiness scores—data cleaning, feature engineering (162 country dummies), exploratory analysis, and model comparison (Linear Regression, Random Forest, Gradient Boosting). Achieved baseline RMSE of 0.388 (R²≈0.88) and improved ensemble performance via 5‑fold CV.
 
