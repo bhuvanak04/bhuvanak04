@@ -21,14 +21,14 @@ Currently diving deeper into model fairness (AIF360) and scalable deployments vi
 ### • [Campus Health Survey Anlysis](https://github.com/bhuvanak04/Campus-Health-Survey-Analysis)
 Analyzed UC Riverside health survey data to identify top health concerns among campus respondents. Cleaned multi-response data, built visualizations for the most selected concerns, and conducted a gender-stratified analysis using chi-square tests to identify statistically significant differences across 29 health topics.
 
-### • [world-happiness-prediction]
-End‑to‑end ML pipeline predicting World Happiness scores—data cleaning, feature engineering (162 country dummies), exploratory analysis, and model comparison (Linear Regression, Random Forest, Gradient Boosting). Achieved baseline RMSE of 0.388 (R²≈0.88) and improved ensemble performance via 5‑fold CV.
-
 ### • [pizza-store-sql-program](https://github.com/bhuvanak04/PizzaStore-SQL-Program)
 Role‑based Java/PLpgSQL pizza‑ordering system with automated audit logging (triggers & stored procedures), optimized indexing for 50% faster queries, and secure access control for customers, staff, and admins.
 
 ### • [flight-delay-analysis](https://github.com/bhuvanak04/Flight-Delay-Analysis)
 Analyzed 336,776 NYC flight records: cleaned missing data, performed time‑series and EDA, and quantified seasonal delay trends—summer delays ↑30%, precipitation adds ~4 min delay/inch.
+
+### • world-happiness-prediction ML Model
+End‑to‑end ML pipeline predicting World Happiness scores—data cleaning, feature engineering (162 country dummies), exploratory analysis, and model comparison (Linear Regression, Random Forest, Gradient Boosting). Achieved baseline RMSE of 0.388 (R²≈0.88) and improved ensemble performance via 5‑fold CV.
 
 ## 🚀 How to Run My Projects
 1. **Clone** your chosen repo  
