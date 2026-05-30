@@ -27,11 +27,11 @@ Role‑based Java/PLpgSQL pizza‑ordering system with automated audit logging (
 ### • [flight-delay-analysis](https://github.com/bhuvanak04/Flight-Delay-Analysis)
 Analyzed 336,776 NYC flight records: cleaned missing data, performed time‑series and EDA, and quantified seasonal delay trends—summer delays ↑30%, precipitation adds ~4 min delay/inch.
 
+### • [CampusNest Vibe-Coded Application](https://github.com/bhuvanak04/CampusNest)
+A student-focused housing platform that helps university students discover rentals, connect with compatible roommates, communicate with landlords, and make informed housing decisions.
+
 ### • world-happiness-prediction ML Model
 End‑to‑end ML pipeline predicting World Happiness scores—data cleaning, feature engineering (162 country dummies), exploratory analysis, and model comparison (Linear Regression, Random Forest, Gradient Boosting). Achieved baseline RMSE of 0.388 (R²≈0.88) and improved ensemble performance via 5‑fold CV.
-
-### • CampusNest Vibe-Coded Application (https://github.com/bhuvanak04/CampusNest)
-A student-focused housing platform that helps university students discover rentals, connect with compatible roommates, communicate with landlords, and make informed housing decisions.
 
 
 ## 🚀 How to Run My Projects
