@@ -18,7 +18,7 @@ Currently diving deeper into model fairness (AIF360) and scalable deployments vi
 
 ## 🔗 Featured Projects
 
-### [Telecom Customer Churn Analyisy](https://github.com/bhuvanak04/Customer-Churn-SQL-Analysis)
+### [Telecom Customer Churn Analysis](https://github.com/bhuvanak04/Customer-Churn-SQL-Analysis)
 SQL analysis identifying key churn drivers across 7,043 telecom customers using SQLite and DB Browser
 
 ### • [Campus Health Survey Anlysis](https://github.com/bhuvanak04/Campus-Health-Survey-Analysis)
