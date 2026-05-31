@@ -18,6 +18,9 @@ Currently diving deeper into model fairness (AIF360) and scalable deployments vi
 
 ## 🔗 Featured Projects
 
+### [Telecom Customer Churn Analyisy](https://github.com/bhuvanak04/Customer-Churn-SQL-Analysis)
+SQL analysis identifying key churn drivers across 7,043 telecom customers using SQLite and DB Browser
+
 ### • [Campus Health Survey Anlysis](https://github.com/bhuvanak04/Campus-Health-Survey-Analysis)
 Analyzed UC Riverside health survey data to identify top health concerns among campus respondents. Cleaned multi-response data, built visualizations for the most selected concerns, and conducted a gender-stratified analysis using chi-square tests to identify statistically significant differences across 29 health topics.
 
